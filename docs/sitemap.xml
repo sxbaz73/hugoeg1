@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>https://sxbaz73.github.io/hugoeg1/docs/posts/my-first-post/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://sxbaz73.github.io/hugoeg1/docs/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://sxbaz73.github.io/hugoeg1/docs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://sxbaz73.github.io/hugoeg1/docs/posts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://sxbaz73.github.io/hugoeg1/docs/tags/</loc>
     <priority>0</priority>
   </url>
   
